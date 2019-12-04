@@ -6,5 +6,6 @@ public class aaaaaa {
         System.out.println("asd");
     }
 
+ private int c;
 
 }
